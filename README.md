@@ -164,13 +164,11 @@ online-quiz-management-system/
 
 ## 👨‍💻 Author
 
-**[Your Full Name]**  
+**[Shivam singh]**  
 Internship Project – 2025 / 2026  
-[Your College / University Name]  
+IILM UNIVERSITY  
 
-📧 Email: [your.email@example.com]  
-🔗 LinkedIn: [Your LinkedIn]  
-🐙 GitHub: [Your GitHub]
+📧 Email: Shivam25.scs1003000974
 
 ---
 
